@@ -1,0 +1,10 @@
+RNA-seq raw data accession
+==========================
+
+NCBI BioProject: PRJNA1420504
+
+The raw sequencing reads underlying this RNA-seq analysis are deposited in the
+NCBI Sequence Read Archive under BioProject PRJNA1420504.
+
+Individual SRA Run accessions should be obtained from the BioProject run table
+and mapped to the biological sample metadata before reproducing the analysis.
